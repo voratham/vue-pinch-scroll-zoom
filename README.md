@@ -1,6 +1,8 @@
 # vue-pinch-scroll-zoom
 Vue component that provides content scrolling and zooming using mouse events or two fingers pinch on a mobile devices
 
+#### original_repo: https://github.com/coddicat/vue-pinch-scroll-zoom/tree/main_vue3
+
 #### example:
 https://vue-pinch-scroll-zoom.coddicat.com/
 
@@ -8,7 +10,7 @@ https://vue-pinch-scroll-zoom.coddicat.com/
 
 ## Installation
 ```
-npm i @coddicat/vue3-pinch-scroll-zoom
+npm i @dream07312/vue3-pinch-scroll-zoom
 ```
 
 ## Usage
@@ -29,7 +31,7 @@ template:
 type script:
 ```ts
 import { Component, Vue } from "vue-property-decorator";
-import PinchScrollZoom, { PinchScrollZoomEmitData, PinchScrollZoomRef } from "@coddicat/vue3-pinch-scroll-zoom";
+import PinchScrollZoom, { PinchScrollZoomEmitData, PinchScrollZoomRef } from "@dream07312/vue3-pinch-scroll-zoom";
 
 @Component({
   name: "PinchScrollZoomExample",

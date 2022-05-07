@@ -1,9 +1,10 @@
 {
-  "name": "@coddicat/vue3-pinch-scroll-zoom",
-  "version": "0.2.0",
+  "name": "@dream07312/vue3-pinch-scroll-zoom",
+  "version": "0.0.1",
+  "private": false,
   "description": "Vue3 component that provides content scrolling and zooming using mouse events or two fingers pinch on a mobile devices",
   "author": "Rodion Shlomo Solomonyk",
-  "homepage": "https://github.com/coddicat/vue-pinch-scroll-zoom",
+  "homepage": "https://github.com/voratham/vue-pinch-scroll-zoom/tree/main_vue3",
   "license": "MIT",
   "repository": {
     "type": "git",
